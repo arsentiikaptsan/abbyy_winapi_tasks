@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextCleaner", "TextCleaner\TextCleaner.vcxproj", "{C7A75990-6CF5-46D4-B90C-0451C246DCBE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CleanerUnit", "CleanerUnit\CleanerUnit.vcxproj", "{7F4B472B-E371-44E2-902F-9BF00721237E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A75990-6CF5-46D4-B90C-0451C246DCBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7A75990-6CF5-46D4-B90C-0451C246DCBE}.Debug|Win32.Build.0 = Debug|Win32
+		{C7A75990-6CF5-46D4-B90C-0451C246DCBE}.Release|Win32.ActiveCfg = Release|Win32
+		{C7A75990-6CF5-46D4-B90C-0451C246DCBE}.Release|Win32.Build.0 = Release|Win32
+		{7F4B472B-E371-44E2-902F-9BF00721237E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F4B472B-E371-44E2-902F-9BF00721237E}.Debug|Win32.Build.0 = Debug|Win32
+		{7F4B472B-E371-44E2-902F-9BF00721237E}.Release|Win32.ActiveCfg = Release|Win32
+		{7F4B472B-E371-44E2-902F-9BF00721237E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
